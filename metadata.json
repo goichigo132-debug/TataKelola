@@ -1,0 +1,6 @@
+{
+  "name": "Tata Kelola Sampah Tangsel",
+  "description": "Website evaluasi kebijakan lingkungan Perda Pengelolaan Sampah dan efektivitas bank sampah kelurahan di Tangerang Selatan serta kampanye aksi digital untuk pelajar dan masyarakat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
